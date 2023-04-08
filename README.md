@@ -1,6 +1,6 @@
  # Webstudio Asset Manager
 
-This module enable the upload of file based assets (images, multimedia, etc) to IPFS `Webstudio`
+This module enable the upload of file based assets (images, multimedia, etc) to IPFS [Webstudio](https://webstudio.so)
 
  ![Webstudio Asset Manager](https://github.com/webstudioso/wsm-asset-manager/actions/workflows/production.yml/badge.svg)
 
